@@ -1,0 +1,28 @@
+{
+  "name": "express-wrapper-async",
+  "version": "1.0.0",
+  "description": "Express Async Wrapper for Error Handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uhmtoto/express-wrapper-async.git"
+  },
+  "keywords": [
+    "express",
+    "error",
+    "wrapper",
+    "async"
+  ],
+  "author": "Seohun Uhm <uhmtotow@gmail.com> (https://uhmtoto.space)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uhmtoto/express-wrapper-async/issues"
+  },
+  "homepage": "https://github.com/uhmtoto/express-wrapper-async#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
